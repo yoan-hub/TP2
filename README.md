@@ -3,6 +3,8 @@
 
 
 ### Pourquoi j’ai choisi le programme TIM 
+1. ca me tentait
+2. get good
 
 ### Mon profil multimédia 
 
