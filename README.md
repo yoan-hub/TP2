@@ -1,7 +1,7 @@
 ## TP2
 # Présentation numérique portant sur l'analyse d'un profile multimedia
-## Yoan Visinand
-## 14 novembre 2025
+Yoan Visinand
+14 novembre 2025
 
 
 ### Pourquoi j’ai choisi le programme TIM 
