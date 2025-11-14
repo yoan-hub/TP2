@@ -42,3 +42,9 @@ Mon deuxième choix d'études universitaire serait la conception de jeux vidéo 
 4. Faiblesse majeures: Mettre mes idées en place et procrastiner
 5. Préféré: web et surtout design graphique
 6. Moin préféré: Audio
+
+### Moodboard
+
+### Carte mendale
+
+### Diagramme
