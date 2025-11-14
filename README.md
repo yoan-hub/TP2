@@ -19,7 +19,7 @@ Je suis définitivement hybride. Car je suis compétent dans les deux, tout en �
 2. Organisation
 3. Multitâche
 4. Je ne veux pas toujours demander de l'aide
-Un défi pour moi, serais d'arrêter de faire mes travails ou projets dernière minute et de planifier mon emploi du temps
+5. Un défi pour moi, serais d'arrêter de faire mes travails ou projets dernière minute et de planifier mon emploi du temps
 
 ### Mon domaine multimédia préféré 
 
