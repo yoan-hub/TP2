@@ -46,7 +46,12 @@ Mon deuxième choix d'études universitaire serait la conception de jeux vidéo 
 6. Moin préféré: Audio
 
 ### Moodboard
+<img width="1890" height="1417" alt="Moodboard-Yoan" src="https://github.com/user-attachments/assets/8590cdc2-73b5-4ce7-8df3-abefb3bc1c9f" />
+
 
 ### Carte mendale
+<img width="1013" height="775" alt="Carte-Mentale-Yoan" src="https://github.com/user-attachments/assets/e5125791-9417-48ed-b601-0302347b415b" />
+
+
 
 ### Diagramme
